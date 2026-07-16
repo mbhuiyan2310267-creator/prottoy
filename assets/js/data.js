@@ -34,19 +34,6 @@ const notices = [
 
 const donors = [
   {
-    id: 1,
-    name: "Zobaid Rafi",
-    bloodGroup: "O+",
-    district: "কুমিল্লা",
-    upazila: "নাঙ্গলকোট",
-    Donation Area: "Dhaka",
-    phone: "01568249004",
-    available: true,
-    lastDonation: "2026-03-10",
-    verified: false,
-    demo: true
-  },
-  {
     id: 2,
     name: "নমুনা রক্তদাতা ২",
     bloodGroup: "B+",
